@@ -1,0 +1,28 @@
+.my_ButtonName
+{
+  margin: 15px 20px 15px auto;
+}
+.card-text{
+  color: #727272;
+}
+
+body {
+  background-image: url(back.jpg);
+}
+.card{
+  margin-top: 25px;
+}
+.mr-auto{
+  margin-left: auto!important;
+  margin-right: 0!important;
+}
+.nav-item{
+  margin-left: 10px;
+}
+.btn-light:hover{
+  color: #fff;
+}
+#add1, #add2, #add3 {
+  margin-top: .4rem;
+  margin-left: 1rem;
+}
