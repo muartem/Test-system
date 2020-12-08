@@ -1,11 +1,25 @@
+#foot{
+  display: inline;
+}
 .my_ButtonName
 {
+  float: right;
   margin: 15px 20px 15px auto;
+}
+#pit{
+  margin-bottom: 30px;
+}
+#timer{
+  float: left;
+  margin: 15px auto 15px 20px;
+  color: #bbbbbb;
 }
 .card-text{
   color: #727272;
 }
-
+#root{
+  margin: 15px;
+}
 body {
   background-image: url(back.jpg);
 }
